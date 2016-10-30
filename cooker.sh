@@ -13,7 +13,7 @@ export CROSS_COMPILE=/home/zakee94/kernel_cooker/toolchains/uber_arm-eabi-4.9/bi
 architect=arm
 BOOT=arch/arm/boot
 defconfig=titan_defconfig
-archive_name=Halogen-Kernel-R29
+archive_name=Halogen-Kernel-R30
 my_zip=/home/zakee94/kernel_cooker/my-zips
 anykernel=/home/zakee94/kernel_cooker/zippers/halogen-zip/
 
