@@ -1,0 +1,1 @@
+cmd_drivers/leds/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/led-triggers.o drivers/leds/leds-qpnp.o drivers/leds/leds-qpnp-rgb.o drivers/leds/leds-gpio.o 

@@ -1,0 +1,1 @@
+cmd_drivers/slimbus/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/slimbus/built-in.o drivers/slimbus/slimbus.o drivers/slimbus/slim-msm.o drivers/slimbus/slim-msm-ngd.o 

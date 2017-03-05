@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-msm/memutils/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o arch/arm/mach-msm/memutils/built-in.o arch/arm/mach-msm/memutils/memcpy.o arch/arm/mach-msm/memutils/copy_from_user.o arch/arm/mach-msm/memutils/copy_to_user.o arch/arm/mach-msm/memutils/copy_page.o arch/arm/mach-msm/memutils/memmove.o 

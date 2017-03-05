@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/gt9xx/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/input/touchscreen/gt9xx/built-in.o drivers/input/touchscreen/gt9xx/gt9xx.o drivers/input/touchscreen/gt9xx/gt9xx_update.o drivers/input/touchscreen/gt9xx/goodix_tool.o 

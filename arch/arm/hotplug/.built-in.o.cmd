@@ -1,0 +1,1 @@
+cmd_arch/arm/hotplug/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o arch/arm/hotplug/built-in.o arch/arm/hotplug/thunderplug_quad.o arch/arm/hotplug/alucard_hotplug.o arch/arm/hotplug/mako_hotplug.o 

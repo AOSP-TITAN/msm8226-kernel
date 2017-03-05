@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/video/backlight/built-in.o drivers/video/backlight/backlight.o drivers/video/backlight/lm3630a_bl.o 

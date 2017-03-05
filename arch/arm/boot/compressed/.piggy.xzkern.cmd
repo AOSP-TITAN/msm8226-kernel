@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/compressed/piggy.xzkern := (cat arch/arm/boot/compressed/../Image | sh /home/mint-fuck/kernel/android_kernel_motorola_msm8226/scripts/xz_wrap.sh && printf \\220\\206\\016\\001) > arch/arm/boot/compressed/piggy.xzkern || (rm -f arch/arm/boot/compressed/piggy.xzkern ; false)
