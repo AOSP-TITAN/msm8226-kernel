@@ -1,1 +1,0 @@
-cmd_drivers/media/radio/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/media/radio/built-in.o drivers/media/radio/radio-iris.o drivers/media/radio/radio-iris-transport.o 

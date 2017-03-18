@@ -1,1 +1,0 @@
-cmd_sound/soc/txx9/built-in.o :=  rm -f sound/soc/txx9/built-in.o; /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ar rcsD sound/soc/txx9/built-in.o

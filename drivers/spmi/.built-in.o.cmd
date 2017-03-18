@@ -1,1 +1,0 @@
-cmd_drivers/spmi/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/spmi/built-in.o drivers/spmi/spmi.o drivers/spmi/spmi-resources.o drivers/spmi/spmi-pmic-arb.o drivers/spmi/qpnp-int.o drivers/spmi/spmi-dbgfs.o 

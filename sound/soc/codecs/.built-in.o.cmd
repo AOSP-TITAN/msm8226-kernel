@@ -1,1 +1,0 @@
-cmd_sound/soc/codecs/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o sound/soc/codecs/built-in.o sound/soc/codecs/snd-soc-wcd9306.o sound/soc/codecs/wcd9xxx-resmgr.o sound/soc/codecs/wcd9xxx-mbhc.o sound/soc/codecs/snd-soc-msm-stub.o sound/soc/codecs/snd-soc-tfa9890.o sound/soc/codecs/sound_control_3_gpl.o 

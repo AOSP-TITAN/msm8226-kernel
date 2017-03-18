@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/msm/camera_v2/msm_buf_mgr/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/media/platform/msm/camera_v2/msm_buf_mgr/built-in.o drivers/media/platform/msm/camera_v2/msm_buf_mgr/msm_generic_buf_mgr.o 

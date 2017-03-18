@@ -1,1 +1,0 @@
-cmd_drivers/staging/built-in.o :=  /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/staging/built-in.o drivers/staging/staging.o drivers/staging/serial/built-in.o drivers/staging/media/built-in.o drivers/staging/zram/built-in.o drivers/staging/zsmalloc/built-in.o drivers/staging/android/built-in.o drivers/staging/prima/built-in.o 

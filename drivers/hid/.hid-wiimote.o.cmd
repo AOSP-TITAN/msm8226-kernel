@@ -1,1 +1,0 @@
-cmd_drivers/hid/hid-wiimote.o := /home/mint-fuck/toolchain/arm-eabi-5.3/bin/arm-eabi-ld -EL    -r -o drivers/hid/hid-wiimote.o drivers/hid/hid-wiimote-core.o drivers/hid/hid-wiimote-modules.o drivers/hid/hid-wiimote-debug.o 
