@@ -608,6 +608,11 @@ CONFIG_GIC_SECURE=y
 # CONFIG_FIQ_DEBUGGER is not set
 
 #
+# Processor Underclock capability
+#
+CONFIG_CPU_UNDERCLOCK=y
+
+#
 # Bus support
 #
 # CONFIG_PCI_SYSCALL is not set
